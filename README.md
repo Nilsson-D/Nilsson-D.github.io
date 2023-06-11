@@ -1,5 +1,5 @@
 # Welcome
 
 ## Who am I?
-My field of interest is medicine and I'm currently studying a Masters in Bioinformatics. 
+PhD student at Lunds University with a Masters in Bioinformatics. I enjoy programming and data science. Highly interested in machine and deep learning.
 
