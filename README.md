@@ -1,5 +1,3 @@
-# Welcome
-
-## Who am I?
-PhD student at Lunds University with a Masters in Bioinformatics. I enjoy programming and data science. Highly interested in machine and deep learning.
-
+### Hi, I'm Daniel! 👋
+- 🧬 PhD Student in Immunotechnology specializing in **bioinformatics** and **deep learning**.
+- 🌱 I work on **spatial omics** data analysis, **image analysis**, and **multi-omics integration**.
